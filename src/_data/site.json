@@ -1,8 +1,8 @@
 {
-  "site_name": "Starter",
-  "title": "Eleventy Starter Boilerplate",
-  "description": "Starter code for your 11ty blog Boilerplate",
-  "url": "https://example.com",
+  "site_name": "OTTR GURU",
+  "title": "OTTR",
+  "description": "Meta-Otter",
+  "url": "https://ott.guru",
   "locale": "en",
-  "author": "Anonymous"
+  "author": "gilgahex"
 }
